@@ -72,6 +72,16 @@ cartoon, cartoonized, cartoony, illustration, art, artwork, draw, flat cartoon, 
 black and white,b&w, monochrome, (anime), (manga), 3d render, realistic, photorealistic, 3d model, abstract art, poorly drawn, text, dialog bubble, letters, signature, minimalist art, amateur comic artist, photography, photo, superhero, marvel, dc comics, Impressionism,cubism,Surrealism,Pop Art, Expressionism, oil painting, children book illustration style,
 ```
 
+### Pony High Quality
+#### Positive:
+```
+[score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up]
+```
+#### Negative:
+```
+[score 1, score 2, score 3]
+```
+
 #### Artist Names
 
 - Vincent Van Gogh
